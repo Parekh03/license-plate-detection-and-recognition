@@ -22,7 +22,7 @@ Some of the outputs from the license plate detector model (YOLOv8) are as follow
 7. Draw the bounding box representing the detected text, over the original image
 8. Save or display the annotated image
 
-Dataset on which the detection and recognition: [Indian Vehicle Dataset](https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset)
+Dataset used for detection and recognition: [Indian Vehicle Dataset](https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset)
 
 Some of the outputs obtained by performing the above mentioned steps are:
 
